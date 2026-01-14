@@ -1,7 +1,7 @@
 <h1>Hotel Management System</h1>
 
 <h2>Overview</h2>
-<p>This is a <strong>Java-based Hotel Management System</strong> with a GUI built in NetBeans. I made it so that a hotel manager or receptionist can add check there guests in and out of a room with it but they have to do it with a admin username and passowrd and then they can keep an eye on who is where and then if someone leaves a room they can also check them out.</p>
+<p>This is a <strong>Java-based Hotel Management System</strong> with a GUI built in NetBeans. I made it so that a hotel manager or receptionist can add check there guests in and out of a room with it but they have to do it with a admin username and passowrd and then they can keep an eye on who is where and then if someone leaves a room they can also check them out. I also used mySQL to store all the info and link back to it from the application itself</p>
 
 <h3>Features:</h3>
 <ul>
