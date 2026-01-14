@@ -66,7 +66,7 @@ INSERT INTO users VALUES ('admin', 'admin');</code></pre>
         <pre><code>return DriverManager.getConnection(
     "jdbc:mysql://localhost:3306/hotel_db",
     "root",
-    "YOUR_PASSWORD"
+    "This is where you put whatever your password is LOL, (DON'T LEAVE AS IT IS OR IT WILL NOT WORK!!!!!"
 );</code></pre>
     </li>
     <li>Run <code>Login.java</code> to start the application.</li>
