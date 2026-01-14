@@ -13,7 +13,7 @@ public class DB {
             return DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/hotel_db",
                 "root",
-                "Hasan4043/"
+                "replace with your password"
             );
         } catch (Exception e) {
             e.printStackTrace();
