@@ -75,7 +75,6 @@ INSERT INTO users VALUES ('admin', 'admin');</code></pre>
 <hr>
 
 <h2>Screenshots</h2>
-<p>(Replace these with your own screenshots)</p>
 <img src="screenshots/login.png" alt="Login Screen">
 <img src="screenshots/mainmenu.png" alt="Main Menu">
 <img src="screenshots/addguest.png" alt="Add Guest Screen">
